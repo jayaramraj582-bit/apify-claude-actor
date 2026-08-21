@@ -1,0 +1,9 @@
+{
+  "url": "https://example.com",
+  "model": "claude-2.1",
+  "max_tokens": 800,
+  "temperature": 0.2,
+  "chunk_chars": 3000,
+  "pause_between_calls_ms": 250,
+  "auth_type": "x-api-key"
+}

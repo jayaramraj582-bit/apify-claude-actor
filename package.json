@@ -1,0 +1,16 @@
+{
+  "name": "apify-claude-actor",
+  "version": "1.0.0",
+  "description": "Apify Actor that scrapes web pages, chunks long text, summarizes with Anthropic Claude, and aggregates summaries.",
+  "main": "actor-main.js",
+  "scripts": {
+    "start": "node actor-main.js"
+  },
+  "dependencies": {
+    "apify": "^3.0.0",
+    "node-fetch": "^3.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
